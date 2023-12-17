@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Fasthand&family=Geologica:wght@200;400;500;700&family=Pacifico&family=Poppins:ital,wght@0,500;0,700;0,800;1,100;1,900&family=Russo+One&family=Ysabeau+Office:ital,wght@1,100&display=swap')
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  z-index:10;
+}
+
+body {
+  background-image: url(image/bedroom.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+nav {
+  padding: 1em;
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 23px;
+}
+
+.logo {
+  text-transform: uppercase;
+  color: white;
+  font-weight: 900;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  display: inline-block;
+  align-items: center;
+  margin: 0px 20px
+}
+
+.overlay {
+  position: absolute;
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+  opacity: 0.7;
+}
+/*                               Header                 */
+
+section {
+  position: relative;
+  font-family: 'Geologica', sans-serif;
+  text-align: center;
+  margin-right: 2.5em;
+  margin-top: 50px;
+}
+
+.main h1{
+  font-weight: 400;
+  font-size: 50px;
+  
+}
+
+
+.start {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  color: black;
+}
+
+.btn {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-size: 25px;
+  font-family: 'Geologica', sans-serif;
+  color: black;
+}
+
+.start {
+  margin: 23px 25px 23px ;
+  cursor: pointer;
+}
+
+i {
+  padding: 28px 0 0 1px;
+  cursor: pointer;
+}
+
+.Congo {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+
+}
+
+.Nigeria {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+}
+
+
+.canada {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+}
+
+
+.footer {
+  position: absolute;
+  margin-right: 10em;
+  color: white;
+  z-index:10;
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 14px;
+  margin-top: 40em;
+  margin-left:47em;
+}
+
+nav {
+  padding: 1em;
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 23px;
+}
+
+.logo {
+  text-transform: uppercase;
+  color: white;
+  font-weight: 900;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  display: inline-block;
+  align-items: center;
+  margin: 0px 20px
+}
+
+.overlay {
+  position: absolute;
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+  opacity: 0.7;
+}
+/*                               Header                 */
+
+section {
+  position: relative;
+  font-family: 'Geologica', sans-serif;
+  text-align: center;
+  margin-right: 2.5em;
+  margin-top: 50px;
+}
+
+.main h1{
+  font-weight: 400;
+  font-size: 50px;
+  
+}
+
+
+.start {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  color: black;
+}
+
+.btn {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-size: 25px;
+  font-family: 'Geologica', sans-serif;
+  color: black;
+}
+
+.start {
+  margin: 23px 25px 23px ;
+  cursor: pointer;
+}
+
+i {
+  padding: 28px 0 0 1px;
+  cursor: pointer;
+}
+
+.Congo {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+
+}
+
+.Nigeria {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+}
+
+
+.canada {
+  border-radius: 20px;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Geologica', sans-serif;
+  color: rgba (0, 0, 0, 0.5);
+  transition: 2s ease;
+  color: black;
+}
+
+
+.footer {
+  position: absolute;
+  margin-right: 10em;
+  color: white;
+  z-index:10;
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 14px;
+  margin-top: 40em;
+  margin-left:47em;
+}
+
