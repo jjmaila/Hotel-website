@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url(image/bedroom.webp);
+  background-image: url(/assets/image/bedroom.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
