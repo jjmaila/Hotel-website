@@ -1,4 +1,4 @@
-![Hotel JJamila](documentation/animal_shelter_logo.png)
+![Hotel JJamila]()
 
 ---
 

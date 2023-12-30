@@ -1,4 +1,3 @@
-
 #map {
     position: relative;
     width: 100%;
@@ -13,10 +12,23 @@
     height: 100% !important;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+body{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url("/assets/image/map.jpg"), #000;
+    background-position: center;
+    background-size: cover;
+}
+
+div {
+    text-align: center;
     
+}
+
+h1{
+    text-align: center;
 }
 
 .start {
