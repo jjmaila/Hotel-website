@@ -1,17 +1,58 @@
-#googleMap {
-    width: 100%;  /* Set width to 100% of the parent container */
-    height: 500px; /* Set a fixed height */
-    border: 2px solid #ccc; /* Add a border for visualization */
-    border-radius: 10px; /* Add some border-radius for rounded corners */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow for a lifted effect */
+
+#map {
+    position: relative;
+    width: 100%;
+    height: 100%;
 }
 
-  /* Optional: Style for the header */
-h1 {
-    text-align: center;
-    margin-top: 20px;
-    color: #333;
+#map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
 }
 
-script {
-    "https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap}
+img {
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.start {
+    margin: 23px 25px 23px ;
+    cursor: pointer;
+}
+
+i {
+    padding: 28px 0 0 1px;
+    cursor: pointer;
+}
+
+.Congo {
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Geologica', sans-serif;
+    color: rgba (0, 0, 0, 0.5);
+    transition: 2s ease;
+    color: black;
+}
+
+.Nigeria {
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Geologica', sans-serif;
+    color: rgba (0, 0, 0, 0.5);
+    transition: 2s ease;
+    color: black;
+}
+
+
+.canada {
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Geologica', sans-serif;
+    color: rgba (0, 0, 0, 0.5);
+    transition: 2s ease;
+    color: black;
+}
