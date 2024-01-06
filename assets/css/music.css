@@ -14,7 +14,6 @@ h1 {
     color: #fff;
     padding: 0 10%;
 }
-
 h3 {
     margin: 0;
     font-size: 17px;
@@ -28,8 +27,8 @@ h3 {
     height: 750px;
     margin: auto;
     overflow: hidden;
-    background-image: url("/docs/image/bg-music-player.jpg");
-    background-repeat: no-repeat;
+    background-image: url("https://mariongrandvincent.github.io/HTML-Personal-website/img-codePen/bg-music-player.jpg");
+    background-repeat: repeat;
     background-size: cover;
 }
 .music-player {
@@ -234,4 +233,5 @@ h3 {
 }
 .mejs__controls .mejs__horizontal-volume-slider .mejs__horizontal-volume-current {
     background: #fff;
+}
 }
