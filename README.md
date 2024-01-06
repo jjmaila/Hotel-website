@@ -1,4 +1,4 @@
-![Hotel JJamila]()
+![Hotel JJamila](https://fuzzy-chainsaw-6j9xrq4g5xj2rqjx-5500.app.github.dev/)
 
 ---
 
@@ -6,7 +6,7 @@
 
 This JJamila Hotel is a website allows people to go on it a book there hoildays, about the company "Hotel" and find information about my hotel in this place. The visitors of the website could quickly contact the company and get a hotel in any county as quickly as they can.
 
-The site can be accessed by this [link](https://fuzzy-chainsaw-6j9xrq4g5xj2rqjx-5500.app.github.dev/)
+The site can be accessed by this [link](jjmaila.github.io)
 
 ![Responsive Mockup](documentation/responsive_mockup.png)
 
@@ -51,12 +51,6 @@ This will let you see everyting on the map.
 Map is responsive: the size of the photo depends on the user's screen.
 It has a footer identical to the home page's footer.
 
-## Music place
-Music this will keep you good and cool.
-This music where u can pick your song 
-Music is an expression of sound that can evoke many emotions and reactions. 
-This Music is an art form that combines either vocal or instrumental sounds, sometimes both, using form, harmony, and expression of emotion to convey an idea.
-
 ### Responce page
 Response page appears after submitting the contact form.
 It contains the thank you message and the promise to get in touch with the applicant within 24 hours.
@@ -65,12 +59,10 @@ The submit button leads to the response page.​
 
 
 ### Technologies Used
-HTML was used as the foundation of the site.
+  HTML was used as the foundation of the site.
   CSS - was used to add the styles and layout of the site.
   Git was used for the version control of the website.
   GitHub was used to host the code of the website.
   VSCode was used as the main tool to write and edit code.
-
-
 
 ---
