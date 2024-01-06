@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url("../image/bedroom.webp");
+  background-image: url("/docs/image/bedroom.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -243,7 +243,7 @@ i {
   background-color: rgb(224, 135, 0) ;
   border: 1px solid black;
 }
-/* 
+
 .Congo {
   border-radius: 20px;
   padding: 10px 30px 10px 30px;
@@ -271,7 +271,7 @@ i {
   color: rgba (0, 0, 0, 0.5);
   transition: 2s ease;
   color: black;
-} */
+} 
 
 
 .footer {
