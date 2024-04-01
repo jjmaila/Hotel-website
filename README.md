@@ -1,7 +1,3 @@
-![Hotel JJamila](https://fuzzy-chainsaw-6j9xrq4g5xj2rqjx-5500.app.github.dev/)
-
----
-
 # *JJamila Hotel*
 
 This JJamila Hotel is a website allows people to go on it a book there hoildays, about the company "Hotel" and find information about my hotel in this place. The visitors of the website could quickly contact the company and get a hotel in any county as quickly as they can.
