@@ -18,7 +18,7 @@ As a Returning Visitor, I want to see information about the hotel, so that I can
 As a Frequent User, I want to have options for the reason to contact the company, so I can get an explicit answer to my email.
 
 ### Features
-## Navbar
+# Navbar
 Navigation
 Positioned at the top of the page.
 
