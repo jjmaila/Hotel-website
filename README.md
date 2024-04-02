@@ -2,10 +2,6 @@
 
 This JJamila Hotel is a website allows people to go on it a book there hoildays, about the company "Hotel" and find information about my hotel in this place. The visitors of the website could quickly contact the company and get a hotel in any county as quickly as they can.
 
-The site can be accessed by this [link](jjmaila.github.io)
-
-![Responsive Mockup](documentation/responsive_mockup.png)
-
 ## User Stories
 First Time Visitor Goals:
 As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
