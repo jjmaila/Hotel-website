@@ -34,7 +34,7 @@ Here is the link http://127.0.0.1:5500/
  - leads to the home page where users can learn about the company Hotel. BOOKING - leads to the login and the response. MAP - leads to your map place and where you can pick your hotel.
 
 -  MUSIC - leads to music. RESPONSE - leads to your thank you place. The links have animated hover effect. 
-
+ 
 ![some text](/docs/image/home%20page%20.png)
 
 ### Booking place
